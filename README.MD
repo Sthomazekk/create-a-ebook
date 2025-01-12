@@ -19,7 +19,7 @@
 
 # Projeto de adaptação de EBOOK Gerado por I.A.s
 
- Projeto com o objetivo de concluir um modulo do curso.
+ Projetode conclusão de modulo do curso.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -42,12 +42,12 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | um ser humano iluminado em posição de meditação, pixel art style --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing
 
 ## 📚 Materiais
 
