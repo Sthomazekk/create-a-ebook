@@ -7,7 +7,7 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Binf](https://https://www.bing.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -25,17 +25,13 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | um ser humano iluminado em posição de meditação, pixel art style --v 5.1 |
+| título | um homem de costas em posição de meditação no meio de uma paisagem, pixel art style --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado com base em ebook de aula da DIO
 
 ## 🛠️ Instruções de execução
 
